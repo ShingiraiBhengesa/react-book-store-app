@@ -23,7 +23,9 @@ React - Redux Project
 
 - Clone the repository in order to get a copy of this project
 
-Open a terminal or a git bash in the desired directory and run `git clone https://github.com/ShingiraiBhengesa/react-book-store-app.git`
+Open a terminal or a git bash in the desired directory and run
+
+``git clone https://github.com/ShingiraiBhengesa/react-book-store-app.git``
 
 ## Available Scripts
 
