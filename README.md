@@ -27,6 +27,16 @@ Open a terminal or a git bash in the desired directory and run
 
 ``git clone https://github.com/ShingiraiBhengesa/react-book-store-app.git``
 
+- Next you will need a to create  .env file. The .env file contains environment variables for the API configuration. There is a commented .env.example file you can use as a guide to configure your own.
+
+To create your .env file run the following command in your terminal
+
+`cp .env.example .env`
+
+- To install project dependencies run the following command
+
+`npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
