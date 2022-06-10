@@ -7,7 +7,7 @@ const CategoryPage = () => {
   const status = useSelector((state) => state.categories, shallowEqual);
   return (
     <>
-      <button type="button" onClick={check}>
+      <button className="checkstatusBtn" type="button" onClick={check}>
         Check status
       </button>
       <div>{status}</div>
